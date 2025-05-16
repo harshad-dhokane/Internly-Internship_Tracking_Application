@@ -94,7 +94,7 @@ const Auth = () => {
     <div className="flex flex-col items-center justify-center min-h-[80vh] p-4">
       <div className="w-full max-w-md space-y-6">
         <div className="text-center mb-8">
-          <h1 className="text-2xl font-bold">Intern Tracker Pro</h1>
+          <h1 className="text-2xl font-bold">Internly</h1>
           <p className="text-gray-500 mt-2">Track your internship progress efficiently</p>
         </div>
         
